@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pablocawichii@gmail.com
+	name = Pablo Cawich II
